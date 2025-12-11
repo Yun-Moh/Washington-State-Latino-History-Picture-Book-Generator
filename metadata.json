@@ -1,0 +1,5 @@
+{
+  "name": "WA Latino History Book Creator",
+  "description": "An interactive educational app that generates illustrated picture books about Washington State Latino History using Gemini based on provided archival text.",
+  "requestFramePermissions": []
+}
